@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="QLSV">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Classrom"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Student"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Result"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Subject"/>
+        <property name="context-root" value="QLSV"/>
+        <property name="java-output-path" value="/QLSV/build/classes"/>
+    </wb-module>
+</project-modules>
